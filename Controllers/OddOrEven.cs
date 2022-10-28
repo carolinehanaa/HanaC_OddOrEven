@@ -1,7 +1,7 @@
 /*Caroline Hana
 10-26-2022
 Odd or even, the console will display if the number is even or odd
-Peer Review by Carlos Felipe - This program works great. It takes in any number and tells me if it's odd or even. The code is formatted and named correctly. 
+Peer Review : Carlos Felipe - This program works great. It takes in any number and tells me if it's odd or even. The code is formatted and named correctly. 
 */
 
 using System;
